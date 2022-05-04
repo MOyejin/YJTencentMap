@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
 spec.name         = "YJTencentMap"
-spec.version      = "0.0.2"
+spec.version      = "0.0.3"
 spec.summary      = "YJTencentMap for iOS"
 spec.homepage     = "https://github.com/MOyejin/YJTencentMap"
 spec.license      = { :type => "MIT", :file => "LICENSE" }
